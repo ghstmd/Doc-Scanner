@@ -1,0 +1,9 @@
+# Flask and extensions
+flask==2.2.3
+flask-cors==3.0.10
+
+# Image processing
+Pillow==9.4.0
+
+# Utilities
+werkzeug==2.2.3
